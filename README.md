@@ -1,5 +1,6 @@
 # mailmanapi
 A php API to the mailman maillist
 
-
-sudo apt-get install php-curl
+To start install php-curl
+Eg. sudo apt-get install php-curl
+and then rename config_TEMPLATE.php to config.php
