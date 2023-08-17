@@ -5,7 +5,7 @@
   /////////////////////////////////////////////////////
 
   $servername = "hostname";
-  $name = "Name oh the maillinglist";
+  $name = "Name of the maillinglist";
   $password = "Sectet password";
 
   // Create connection
